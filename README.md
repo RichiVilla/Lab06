@@ -40,6 +40,7 @@
 
 
 # Parte II - Despliegue app web spring MVC (o spring-boot backend)
+## Ejercicio 1: Base de datos MySQL
 1. Iniciar Azure Cloud Shell desde el protal e ingresar al Bash para poder inrgesar los siguientes comandos:
 
    az group create --name MyResourceGroup --location westus
@@ -63,30 +64,25 @@
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c93ea939-9a5e-468e-90e9-00f697607cbe)
 
+4. Buscamos la sección de "Conectar" para habilitar los Firewall que permiten la conexión de los servidores de MySQL con los servicios de Azure.
+
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/87d81d87-3234-4be3-8f3e-46f3d379794e)
 
 
- 
-
- 
-
-
-
-EJERCICIO 2
-
- 
- ![image](https://github.com/RichiVilla/Lab06/assets/124943246/01501273-d6cc-4133-9eda-164b1501803b)
-
-![image](https://github.com/RichiVilla/Lab06/assets/124943246/7f8563bb-4c26-44e6-91fd-134bacb47132)
+## Ejercicio 2: actualización de la configuración de la aplicación web
+1. Ir hasta la página web creada y buscar la configuración, en especial las Configuraciones de Pila.
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/640e0468-870f-4fc0-9a96-5b932a198361)
 
+2. Esperamos que estos cambios queden guardados y vamos a "Examinar" para ver la página.
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/94ae2d97-aaf6-4455-b5c9-046c1a33bfbe)
 
+3. La página debe verse como a continuación.
+
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/2128f7e4-63cb-4a64-82ea-3ffafbd87964)
 
- 
+ 4. Vamos a las "Variables del Entorno" y crearemos una nueva "Cadena de Conexión"
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/26504d6b-4700-4328-ad45-f03b50e77b29)
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/524bd74f-0efa-45ed-b5bb-7a40580b5b59)
