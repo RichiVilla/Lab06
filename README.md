@@ -8,7 +8,7 @@
 
 - Crear una Aplicación Web Estática enlazando nuestra cuenta de GitHub junto a un repositorio que contenga la información referente al laboratorio pasado de la Calculadora con React.
 
-    - Proceso de creación de la Aplicación Web Estática.
+    -> Proceso de creación de la Aplicación Web Estática.
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/4e7492f2-1e06-4d01-af56-225e0f50f61c)
 
