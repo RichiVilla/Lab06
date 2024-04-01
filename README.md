@@ -39,17 +39,19 @@
  
 
 
-PARTE II
+# Parte II - Despliegue app web spring MVC (o spring-boot backend)
+1. Iniciar Azure Cloud Shell desde el protal e ingresar al Bash para poder inrgesar los siguientes comandos:
+
+az group create --name MyResourceGroup --location westus
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/717331b1-4984-460d-b275-2a81b44d15c6)
+
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/89cd4f18-ced4-41a2-9691-244feb884b0b)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/55ef2e00-83ef-4200-9445-161053d78942)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/611d11a6-f072-4f6c-ae6a-677f6b3709f0)
  
- 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c93ea939-9a5e-468e-90e9-00f697607cbe)
-
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/87d81d87-3234-4be3-8f3e-46f3d379794e)
 
