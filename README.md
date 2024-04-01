@@ -42,15 +42,25 @@
 # Parte II - Despliegue app web spring MVC (o spring-boot backend)
 1. Iniciar Azure Cloud Shell desde el protal e ingresar al Bash para poder inrgesar los siguientes comandos:
 
-   - az group create --name MyResourceGroup --location westus
+   az group create --name MyResourceGroup --location westus
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/717331b1-4984-460d-b275-2a81b44d15c6)
 
+   Crear un plan de servicio de aplicaciones con:
+   az appservice plan create --resource-group MyResourceGroup --name MyPlan --sku F1
+   
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/89cd4f18-ced4-41a2-9691-244feb884b0b)
 
+    Crear un servidor MySQL con: 
+    az mysql server create --resource-group MyResourceGroup --name mysqldbserver --admin-user mysqldbuser --admin-password P2ssw0rd@123 --sku-name Standard_B1ms
+    
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/55ef2e00-83ef-4200-9445-161053d78942)
 
+2. A continuación ir al Azure Database for MySQL server que se generó.
+
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/611d11a6-f072-4f6c-ae6a-677f6b3709f0)
- 
+
+3. Buscar las propiedades y tener a la mano el nombre del servidor y del administrador.
+
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c93ea939-9a5e-468e-90e9-00f697607cbe)
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/87d81d87-3234-4be3-8f3e-46f3d379794e)
