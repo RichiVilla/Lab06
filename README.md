@@ -110,3 +110,8 @@ Apagamos los servicios que tenemos y ahora busaremos conectar con un cliente FTP
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c1cc070d-c533-46f4-a1c0-6b5a237e1887)
 
+5. Pasamos el Jar que hay en el enlace (https://github.com/PDSW-ECI/spring-mvc-with-bootstrap).
+
+![image](https://github.com/RichiVilla/Lab06/assets/124943246/2e443682-7dd6-4ac3-a5cb-c02646502227)
+
+ENLACE: https://lab6react.azurewebsites.net/
