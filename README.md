@@ -13,8 +13,8 @@
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/90f0d121-a149-4232-8a6f-a8a8f50b394e)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c6473925-85eb-4ec7-9dec-437781b136d2)
-
     - Creación completada.
+
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/0adc8cf4-41d3-4d3f-a9b4-499793154533)
 
