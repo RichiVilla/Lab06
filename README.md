@@ -6,9 +6,9 @@
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/dda75663-648e-45d0-b2d0-af3300c88ac7)
 
-- Crear una Aplicación Web Estática enlazando nuestra cuenta de GitHub junto a un repositorio que contenga la información referente al laboratorio pasado de la Calculadora con React.
+1. Crear una Aplicación Web Estática enlazando nuestra cuenta de GitHub junto a un repositorio que contenga la información referente al laboratorio pasado de la Calculadora con React.
 
-    - Proceso de creación de la Aplicación Web Estática.
+- Proceso de creación de la Aplicación Web Estática.
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/4e7492f2-1e06-4d01-af56-225e0f50f61c)
 
@@ -24,12 +24,12 @@
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/9d71e35c-6d07-4170-bc81-92fbe2ec17c5)
 
 
-    - En GitHub buscamos el repositorio y vemos que haya sido captada por Azure (En este caso hubo que modificar el código ya que había inconvenientes con Oryx).
+- En GitHub buscamos el repositorio y vemos que haya sido captada por Azure (En este caso hubo que modificar el código ya que había inconvenientes con Oryx).
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/f735cf9c-a1e3-4e58-a1ba-0739e0eaffab)
 
 
-    - Ir a Azure, a la App Web Estática, y poder cargar la página dando clic en Examinar.
+- Ir a Azure, a la App Web Estática, y poder cargar la página dando clic en Examinar.
 
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/702ff90f-a46e-4d87-8bb3-2dd668211ea3)
 
