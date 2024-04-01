@@ -16,15 +16,19 @@
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c6473925-85eb-4ec7-9dec-437781b136d2)
 
+
     - Creación completada.
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/0adc8cf4-41d3-4d3f-a9b4-499793154533)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/9d71e35c-6d07-4170-bc81-92fbe2ec17c5)
 
+
     - En GitHub buscamos el repositorio y vemos que haya sido captada por Azure (En este caso hubo que modificar el código ya que había inconvenientes con Oryx).
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/f735cf9c-a1e3-4e58-a1ba-0739e0eaffab)
 
+
     - Ir a Azure, a la App Web Estática, y poder cargar la página dando clic en Examinar.
+
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/702ff90f-a46e-4d87-8bb3-2dd668211ea3)
 
 
