@@ -3,19 +3,20 @@
 
 # Parte I - Despliegue app React (frontend) en Azure
 - Crear una cuenta institucional en Azure y crear un budget de 1 dólar para la cuenta.
+
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/dda75663-648e-45d0-b2d0-af3300c88ac7)
 
 - Crear una Aplicación Web Estática enlazando nuestra cuenta de GitHub junto a un repositorio que contenga la información referente al laboratorio pasado de la Calculadora con React.
 
     - Proceso de creación de la Aplicación Web Estática.
+
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/4e7492f2-1e06-4d01-af56-225e0f50f61c)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/90f0d121-a149-4232-8a6f-a8a8f50b394e)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c6473925-85eb-4ec7-9dec-437781b136d2)
+
     - Creación completada.
-
-
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/0adc8cf4-41d3-4d3f-a9b4-499793154533)
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/9d71e35c-6d07-4170-bc81-92fbe2ec17c5)
