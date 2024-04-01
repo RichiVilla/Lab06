@@ -85,15 +85,28 @@
  4. Vamos a las "Variables del Entorno" y crearemos una nueva "Cadena de Conexión"
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/26504d6b-4700-4328-ad45-f03b50e77b29)
 
+Donde los valores corresponden a:
+   Nombre: A elección.
+   Valor: jdbc:mysql://{ richierickcvds.mysql.database.azure.com}:3306/alm?useSSL=true&requireSSL=false&autoReconnect=true&user={mysqldbuser}&password={r12345.}
+   Tupo: MySQL
  ![image](https://github.com/RichiVilla/Lab06/assets/124943246/524bd74f-0efa-45ed-b5bb-7a40580b5b59)
 
+## Ejercicio 3: implementar los cambios en la aplicación web
+Apagamos los servicios que tenemos y ahora busaremos conectar con un cliente FTP y subir el jar dado.
 
- 
+1. Vamos a la configuración de la base de datos y activamos la opción de "Permitir acceso público a este servidor desde cualquier servicio de Azure dentro de Azure".
 
-EJERCICIO 3
-  
+![image](https://github.com/RichiVilla/Lab06/assets/124943246/214cd6b2-f1d7-490b-a3f4-82bfa778eca3)
+
+2. Configuramos el servicio FTP en la App Web colocando en ON/Activado las opciones y seleccionando "Solo FTPS".
+
+![image](https://github.com/RichiVilla/Lab06/assets/124943246/ed483729-819e-4eb0-8691-ac47315f93a3)
+
+3. Buscamos las credenciales para poder acceder por medio de FTP.
+
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/68bae4ea-3043-44be-9997-79fbc0fe5775)
 
+4. Ingresamos con WinSCP y las credenciales obtenidas anteriormente.
 
 ![image](https://github.com/RichiVilla/Lab06/assets/124943246/c1cc070d-c533-46f4-a1c0-6b5a237e1887)
 
